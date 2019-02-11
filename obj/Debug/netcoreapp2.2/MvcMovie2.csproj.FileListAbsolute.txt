@@ -30,3 +30,8 @@ C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj
 C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\MvcMovie2.dll
 C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\MvcMovie2.pdb
 C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\MvcMovie2.csproj.CopyComplete
+C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Delete.g.cshtml.cs
+C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\Users\bradl\desktop\spring2019\babbcap\code\SecondMvcCoreVideo2\MvcMovie2\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
